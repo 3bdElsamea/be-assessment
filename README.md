@@ -32,7 +32,7 @@ git clone https://github.com/3bdElsamea/url-monitoring-api.git
 ### Go to the project directory:
 
 ```
-cd url_monitoring_api
+cd be_assessment
 ```
 
 ### Run the server:
